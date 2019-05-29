@@ -1,0 +1,556 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "question": "Which of the following country won Football world Cup maximum times?",
+            "answer": [
+                {
+                    "A": "Brazil",
+                    "B": "Italy",
+                    "C": "Argentina",
+                    "D": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Who among the following player scores highest number of goals in Footbal World Cup?",
+            "answer": [
+                {
+                    "A": "Miroslave Klose",
+                    "B": "Meradona",
+                    "C": "Jurgen Klinsmann",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Who among the following player scores highest number of goals in Footbal World Cup?",
+            "answer": [
+                {
+                    "A": "Episkyros",
+                    "B": "Cuju",
+                    "C": "kemari",
+                    "D": "Inuit"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "When was the first FIFA World Cup inaugurated?",
+            "answer": [
+                {
+                    "A": "1930",
+                    "B": "1932",
+                    "C": "1931",
+                    "D": "1933"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Which of following team do not play in stripes?",
+            "answer": [
+                {
+                    "A": "Tottenham Hotspur",
+                    "B": "Southampton",
+                    "C": "Newcastle",
+                    "D": "Lincoln City"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Which of the following country hosted the first Football World Cup?",
+            "answer": [
+                {
+                    "A": "Uruguay",
+                    "B": "Argentina",
+                    "C": "America",
+                    "D": "Brazil"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Which country became the first nation to win the Football World Cup?",
+            "answer": [
+                {
+                    "A": "Uruguay",
+                    "B": "Argentina",
+                    "C": "America",
+                    "D": "Brazil"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "When was first official international football match was played?",
+            "answer": [
+                {
+                    "A": "1872",
+                    "B": "1902",
+                    "C": "1929",
+                    "D": "1870"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Who among the following scored the first goal in World Cup history?",
+            "answer": [
+                {
+                    "A": " Lucien Laurent",
+                    "B": "Bert Patenaude",
+                    "C": "Johino",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Who among the following achieved the first World Cup hat-trick?",
+            "answer": [
+                {
+                    "A": " Bert Patenaude",
+                    "B": "Bert Patenaude",
+                    "C": "Johino",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question": "Which team play at Anfield?",
+            "answer": [
+                {
+                    "A": "Liverpool",
+                    "B": "Aston",
+                    "C": "Manchester City",
+                    "D": "Everton"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question": "Which English Premier side are known as The Red Devils?",
+            "answer": [
+                {
+                    "A": "Manchester United",
+                    "B": "Newcastle United",
+                    "C": "Arsenal",
+                    "D": "Chelsea"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question": "How many lions are on the England badge?",
+            "answer": [
+                {
+                    "A": "3",
+                    "B": "1",
+                    "C": "2",
+                    "D": "5"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question": "Which international club does Paul Pogba play for?",
+            "answer": [
+                {
+                    "A": "France",
+                    "B": "Wales",
+                    "C": "England",
+                    "D": "Brazil"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question": "England have won the World Cup once. But in which year did they lift the trophy?",
+            "answer": [
+                {
+                    "A": "1966",
+                    "B": "1994",
+                    "C": "2000",
+                    "D": "1982"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question": "How long is a game of professional football?",
+            "answer": [
+                {
+                    "A": "90 minutes",
+                    "B": "120 minutes",
+                    "C": "60 minutes",
+                    "D": "45 minutes"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question": "What happens if a referee shows a player a red card?",
+            "answer": [
+                {
+                    "A": "They get send off the pitch",
+                    "B": "The other ream automatically wins",
+                    "C": "They have to do 10 laps of the ground",
+                    "D": "They get detention after the game"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question": "Who is the current captain of the English women's national team?",
+            "answer": [
+                {
+                    "A": "Steph Houghton",
+                    "B": "Fara Williams",
+                    "C": "Casey Stoney",
+                    "D": "Toni Duggan"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question": "Which Premier League team are famous for wearing black and white stripes?",
+            "answer": [
+                {
+                    "A": "Newcastle United",
+                    "B": "Tottenham Hotspur",
+                    "C": "Crystal Palace",
+                    "D": "Everton"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question": "What kind of animal is featured on Leicester City's badge?",
+            "answer": [
+                {
+                    "A": "A Fox",
+                    "B": "A cat",
+                    "C": "A dog",
+                    "D": "A cat"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question": "Which England legend is married to Victoria Beckham?",
+            "answer": [
+                {
+                    "A": "David Beckham",
+                    "B": "Keith Beckham",
+                    "C": "Sam Beckham",
+                    "D": "Stormzy"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question": "How many times have Brazil won the World Cup?",
+            "answer": [
+                {
+                    "A": "5",
+                    "B": "4",
+                    "C": "2",
+                    "D": "6"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "question": "Which club won the Scottish Premiership in 2017?",
+            "answer": [
+                {
+                    "A": "Celtic",
+                    "B": "Rangers",
+                    "C": "Motherwell",
+                    "D": "Kilmarnock"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "question": "Which team does Harry Kane play for?",
+            "answer": [
+                {
+                    "A": "Tottenham Hotspur",
+                    "B": "Arsenal",
+                    "C": "Derby County",
+                    "D": "Birmingham City"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "question": "Which team are nicknamed The Canaries?",
+            "answer": [
+                {
+                    "A": "Norwich City",
+                    "B": "Liverpool",
+                    "C": "Brighton and Hove Albion",
+                    "D": "Celtic"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "question": "Which Scottish team has a goal on their club badge?",
+            "answer": [
+                {
+                    "A": "Aberdeen",
+                    "B": "Celtic",
+                    "C": "Rangers",
+                    "D": "Heart of Midlothian"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "question": "Who is currently the English women's national team's most capped player?",
+            "answer": [
+                {
+                    "A": "Fara Williams",
+                    "B": "Jill Scott",
+                    "C": "Jodie Taylor",
+                    "D": "Isobel Christiansen"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "question": "How many teams play in the FIFA World Cup?",
+            "answer": [
+                {
+                    "A": "32",
+                    "B": "16",
+                    "C": "28",
+                    "D": "12"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "question": "Which football star is on the cover of the FIFA 18 game?",
+            "answer": [
+                {
+                    "A": "Cristiano Ronaldo",
+                    "B": "Paul Pogba",
+                    "C": "Wayne Rooney",
+                    "D": "Lionel Messi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "question": "Which of the following country won Football world Cup maximum times?",
+            "answer": [
+                {
+                    "A": "Brazil",
+                    "B": "Italy",
+                    "C": "Germany",
+                    "D": "Argentina"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "question": "Who among the following player scores highest number of goals in Footbal World Cup?",
+            "answer": [
+                {
+                    "A": "Miroslave Klose",
+                    "B": "Jurgen Klinsmann",
+                    "C": "Meradona",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "question": "When was the first FIFA World Cup inaugurated?",
+            "answer": [
+                {
+                    "A": "1930",
+                    "B": "1931",
+                    "C": "1932",
+                    "D": "1993"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "question": "Which of following team do not play in stripes?",
+            "answer": [
+                {
+                    "A": "Tottenham Hotspur",
+                    "B": "Newcastle",
+                    "C": "Southampton",
+                    "D": "Lincoln City"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "question": "Which country became the first nation to win the Football World Cup?",
+            "answer": [
+                {
+                    "A": "Uruguay",
+                    "B": "Germany",
+                    "C": "Argentina",
+                    "D": "Belgium"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "question": "When was first official international football match was played?",
+            "answer": [
+                {
+                    "A": "1872",
+                    "B": "1902",
+                    "C": "1929",
+                    "D": "1870"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "question": "Who among the following scored the first goal in World Cup history?",
+            "answer": [
+                {
+                    "A": "Lucien Laurent",
+                    "B": "Bert Patenaude",
+                    "C": "Johino",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "question": "Who among the following achieved the first World Cup hat-trick?",
+            "answer": [
+                {
+                    "A": "Bert Patenaude",
+                    "B": "Lucien Laurent",
+                    "C": "Johino",
+                    "D": "Pele"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "question": "Which is the governing body of Football Federations from Europe?",
+            "answer": [
+                {
+                    "A": "UEFA: Union of European Football Associations",
+                    "B": "FFE: Football Federation of Europe",
+                    "C": "IFA: International Football Federations",
+                    "D": "FIFF: Federation of International Football Federations"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "question": "Champions League played in Europe is organized and managed by which organization?",
+            "answer": [
+                {
+                    "A": "UEFA: Union of European Football Associations",
+                    "B": "FFE: Football Federation of Europe",
+                    "C": "IFA: International Football Federations",
+                    "D": "FIFF: Federation of International Football Federations"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "question": "World of 2014 was won by which National Team?",
+            "answer": [
+                {
+                    "A": "Germany",
+                    "B": "Argentina",
+                    "C": "France",
+                    "D": "Spain"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "question": "Which team failed to defend its World Cup title in the World  Cup of 2014",
+            "answer": [
+                {
+                    "A": "Spain",
+                    "B": "Argentina",
+                    "C": "France",
+                    "D": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Who scored the winning goal of World Cup 2014?",
+            "answer": [
+                {
+                    "A": "Mario Gotze",
+                    "B": "Lionel Messi",
+                    "C": "Cristiano Ronaldo",
+                    "D": "Arjen Robben"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Who was given the Puskas Award of 2014?",
+            "answer": [
+                {
+                    "A": "James Rodrigez",
+                    "B": "Cristiano Ronaldo",
+                    "C": "Thomas Muller",
+                    "D": "Rademeal Falcao"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Who won the BallonD’or of 2014?",
+            "answer": [
+                {
+                    "A": "Cristiano Ronaldo",
+                    "B": "Lionel Messi",
+                    "C": "Thomas Muller",
+                    "D": "Rademeal Falcao"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Who was the top scorer of World Cup 2014?",
+            "answer": [
+                {
+                    "A": "Thomas Muller",
+                    "B": "Cristiano Ronaldo",
+                    "C": "Lionel Messi",
+                    "D": "Rademeal Falcao"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Which player holds the record for most goals in World Cup Finals?",
+            "answer": [
+                {
+                    "A": "MoroslavKlose",
+                    "B": "Ronaldo “firimino’",
+                    "C": "Lionel Messi",
+                    "D": "Rademeal Falcao"
+                }
+            ]
+        }
+    ]
+}
