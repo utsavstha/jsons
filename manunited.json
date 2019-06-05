@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "question": "When was Man Utd FC founded?",
+            "answer": [
+                "1878",
+                "1871",
+                "1872",
+                "1874"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "When did Man Utd win their first FA Cup?",
+            "answer": [
+                "1909",
+                "1917",
+                "1912",
+                "1910"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "How many FA Cups did Man Utd win?",
+            "answer": [
+                "11",
+                "12",
+                "4",
+                "12"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "How many top leagues - premier (formerly 1st division) titles did Man Utd win?",
+            "answer": [
+                "19",
+                "11",
+                "12",
+                "22"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "How many European Cup/UEFA Champions League titles did Man Utd win?",
+            "answer": [
+                "3",
+                "2",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Who is/was Man Utd longest serving captain?",
+            "answer": [
+                "Bryan Robson",
+                "Nemanja Vidic",
+                "Gary Neville",
+                "Roy Keane"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Who is/was Man Utd longest serving captain?",
+            "answer": [
+                "Man City",
+                "Bolton",
+                "Everton",
+                "Arsenal"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Who is/was Man Utd most successful manager ever?",
+            "answer": [
+                "Sir Alex Ferguson",
+                "Ron Atkinson",
+                "Matt Busby",
+                "Ron Atkinson"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "What colour is Man Utd FC home jersey?",
+            "answer": [
+                "Red",
+                "Black",
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Which Man Utd player is the most decorated player in English football history?",
+            "answer": [
+                "Ryan Giggs",
+                "Roy Keane",
+                "Bryan Robson",
+                "Eric Cantona"
+            ]
+        }
+    ]
+}

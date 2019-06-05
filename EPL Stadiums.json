@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "question": "Who's home ground is Craven Cottage?",
+            "answer": [
+                "Fulham FC",
+                "QPR",
+                "Burnley",
+                "Man City"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Who's home ground is White Hart Lane?",
+            "answer": [
+                "Tottenham Hotspur",
+                "Middlesbrough",
+                "Bolton Wanderers",
+                "Sheffield Wednesday"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Who's home ground is Boleyn Ground?",
+            "answer": [
+                "West Ham United",
+                "Burnley",
+                "Charlton Athletic",
+                "QPR"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Who's home ground is Anfield?",
+            "answer": [
+                "Liverpool",
+                "Norwich",
+                "Newcastle United",
+                "QPR"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Who's home ground is Old Trafford?",
+            "answer": [
+                "Man Utd",
+                "Bolton Wanderers",
+                "Newcastle United",
+                "Crystal Palace"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Who's home ground is Etihad Stadium?",
+            "answer": [
+                "Man City",
+                "Bolton Wanderers",
+                "Newcastle United",
+                "Crystal Palace"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Who's home ground is Emirates Stadium?",
+            "answer": [
+                "Arsenal",
+                "Leeds United",
+                "West Ham United",
+                "Charlton Athletic"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Who's home ground is Goodison Park?",
+            "answer": [
+                "Everton",
+                "Sheffield United FC",
+                "Burnley",
+                "Charlton Athletic"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Who's home ground is Goodison Park?",
+            "answer": [
+                "Everton",
+                "Sheffield United FC",
+                "Burnley",
+                "Charlton Athletic"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Who's home ground is Reebok Stadium?",
+            "answer": [
+                "Bolton Wanderers",
+                "Millwall",
+                "Burnley",
+                "Man City"
+            ]
+        }
+    ]
+}
